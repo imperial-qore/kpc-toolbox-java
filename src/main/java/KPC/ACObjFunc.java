@@ -1,4 +1,4 @@
-package KPC;
+package org.qore.KPC;
 
 import org.apache.commons.math3.analysis.MultivariateFunction;
 import org.ejml.data.DMatrixRMaj;

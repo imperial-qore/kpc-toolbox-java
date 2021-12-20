@@ -1,4 +1,4 @@
-package KPC;
+package org.qore.KPC;
 
 import org.ejml.data.DMatrixRMaj;
 import org.ejml.dense.row.CommonOps_DDRM;

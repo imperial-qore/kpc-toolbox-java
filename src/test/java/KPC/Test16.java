@@ -1,4 +1,4 @@
-package KPC;
+package org.qore.KPC;
 
 import org.junit.Before;
 import org.junit.Test;

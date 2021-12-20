@@ -1,4 +1,4 @@
-package KPC;
+package org.qore.KPC;
 
 import de.xypron.jcobyla.Cobyla;
 import org.apache.commons.math3.optim.*;

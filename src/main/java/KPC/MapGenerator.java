@@ -1,4 +1,4 @@
-package KPC;
+package org.qore.KPC;
 
 import org.apache.commons.math3.distribution.ExponentialDistribution;
 import org.ejml.data.DMatrixRMaj;

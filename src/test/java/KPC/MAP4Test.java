@@ -1,4 +1,4 @@
-package KPC;
+package org.qore.KPC;
 
 import org.junit.Test;
 import static org.junit.Assert.*;

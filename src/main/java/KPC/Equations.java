@@ -1,4 +1,4 @@
-package KPC;
+package org.qore.KPC;
 
 import java.util.*;
 

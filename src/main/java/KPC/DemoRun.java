@@ -1,4 +1,4 @@
-package KPC;
+package org.qore.KPC;
 
 import java.io.IOException;
 import java.nio.file.Path;

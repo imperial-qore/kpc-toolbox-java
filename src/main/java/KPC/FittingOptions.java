@@ -1,4 +1,4 @@
-package KPC;
+package org.qore.KPC;
 
 /**
  * Enum of the order selection criterion to use (Only BIC implemented).

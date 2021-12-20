@@ -1,4 +1,4 @@
-package KPC;
+package org.qore.KPC;
 
 import junit.framework.TestCase;
 import org.ejml.data.DMatrixRMaj;

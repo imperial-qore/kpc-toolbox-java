@@ -1,4 +1,5 @@
-package KPC;
+package org.qore.KPC;
+
 import org.ejml.data.*;
 import org.ejml.dense.row.EigenOps_DDRM;
 import org.ejml.dense.row.SingularOps_DDRM;
