@@ -243,12 +243,13 @@ public class TraceFitter {
         int nlags = t.acFull.length;
         int nLagsEnd = nlags;
         int orderMax = (int) Math.pow(2, states[states.length-1]);
-        for (int i = 0; i < nlags-1; i++) {
+        /*
+		for (int i = 0; i < nlags-1; i++) {
             if (t.acFull[i+1] < Constants.CONSTRAINT_TOL) {
                 nLagsEnd = i - 1 + orderMax;
                 break;
             }
-        }
+        }*/
         final int NLAGSMAX = 10000;
         int[] SAlags;
         if (nLagsEnd > NLAGSMAX) {
