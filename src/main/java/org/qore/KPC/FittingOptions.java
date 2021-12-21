@@ -13,7 +13,7 @@ public class FittingOptions {
     /**
      * Only fit AC values (not BC) and generate moments automatically.
      */
-    boolean onlyAc = false;
+    boolean onlyAc = true;
 
     /**
      * Allow semi-markov models in fitting process.
