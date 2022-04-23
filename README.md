@@ -32,4 +32,4 @@ To add it to your local maven repository. Check pom.xml for dependency informati
 See [DemoRun](src/main/java/KPC/DemoRun.java) for an example of how to execute a MAP fitting to a custom trace file.
 ## Liscense
 
-See LISCENSE.TXT
+See LICENSE.TXT
