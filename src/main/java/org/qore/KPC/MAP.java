@@ -372,7 +372,7 @@ public class MAP {
         try {
             SingularOps_DDRM.nullVector(svd, true, pi);
         } catch (Exception e) {
-            Constants.LOGGER.warning("Cannot calculate pi vector");
+  //          Constants.LOGGER.warning("Cannot calculate pi vector");
         }
         CommonOps_DDRM.transpose(pi);
         CommonOps_DDRM.divide(pi, CommonOps_DDRM.elementSum(pi));
