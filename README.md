@@ -1,23 +1,11 @@
 # KPC-Toolbox Java
-Java version of the KPC-Toolbox (MATLAB)
+Java version of the KPC-Toolbox 
 
 https://github.com/kpctoolboxteam/kpc-toolbox
 
 Used to model network traces with Markovian Arrival Processes (MAPs).
 
-
-
-## Compile and Run
-Compile the project
-
-    mvn compile
-
-And execute 
-        
-    mvn exec:java -Dexec.mainClass=KPC.DemoRun
-
-
-## Adding the JAR
+## Creating the JAR
 
 Build the project JAR
 
